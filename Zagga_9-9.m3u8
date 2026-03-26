@@ -36,9 +36,7 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:0,[COLOR orange]----- Arabic News & General Channels -----[/COLOR]
 http://channelpear.com/watch/stream/?id=208
 
-#EXTINF:0,Al Iraqiya News
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
-#EXTINF:0,Al Iraqiya General
+#EXTINF:0,Al-Iraqia General
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
 #EXTINF:0,Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w1956345640.m3u8
@@ -48,10 +46,8 @@ https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w28841731.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:0,Al-Sumaria
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sumari&t=111111111
-
 #EXTINF:-1,Alnahrain TV
 https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/alnahrain-master.m3u8
-
 #EXTINF:0,Dijlah IRQ
 http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:0,iNEWS IRQ
@@ -64,10 +60,15 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1732
 https://media1.livaat.com/static/AL-RASHEED-HD/chunklist_w49421752.m3u8
 #EXTINF:0,AL-Taghier
 https://jmc-live.ercdn.net/altaghier/altaghier_1080p.m3u8
+#EXTINF:0,Shams TV IRQ
+https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:0,AL-OULA TV IRAQ
 https://live.alawla.tv/hls/2/stream.m3u8
 #EXTINF:0,INS TV IRAQ
 https://live-vod.com/hls/ins_src/index.m3u8
+#EXTINF:0,Chaldani TV
+https://5caf24a595d94.streamlock.net:1937/nsvvaknhdp/nsvvaknhdp/master.m3u8
+
 #EXTINF:0,Alarabiya tv
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:0,Al hadath tv
@@ -82,16 +83,16 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0,SKY AR
 https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/SkyAr.m3u8
-#EXTINF:0,DW Arabia
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream03/streamPlaylist.m3u8
 #EXTINF:0,Al-Mashhad
 https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/mashhad.m3u8
 #EXTINF:0,MBC1
-https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC%201.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:0,MBC4
-https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC4.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:0,MBC Masr
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:0,MBC Masr 2gether
-https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC%20Masr%202.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:0,OTV
 https://mysat-live.ercdn.net/otv/otv_720p.m3u8
 #EXTINF:0,Future TV
@@ -100,8 +101,6 @@ https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8
 #EXTINF:0,MTV
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:0,Chaldani TV
-https://5caf24a595d94.streamlock.net:1937/nsvvaknhdp/nsvvaknhdp/master.m3u8
 
 #EXTINF:0,[COLOR cyan]----- English News Channels -----[/COLOR]
 http://channelpear.com/watch/stream/?id=208
@@ -136,8 +135,6 @@ http://channelpear.com/watch/stream/?id=208
 
 #EXTINF:0,FIFA Plus
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:0,Fox FS1
-https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:0,[COLOR red]----- Nature & Science -----[/COLOR]
 http://channelpear.com/watch/stream/?id=208
@@ -148,14 +145,8 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdo
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
 #EXTINF:0,Curiousity TV
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
-#EXTINF:0,Science
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
-#EXTINF:0,Space
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,History
-https://fl7.moveonjoy.com/history_channel/index.m3u8
-#EXTINF:0,Modern Marvels
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/265
 
 #EXTINF:0,[COLOR magneta]----- Music -----[/COLOR]
 http://channelpear.com/watch/stream/?id=208
@@ -166,20 +157,18 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 #EXTINF:0,R. Clip
 https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nojoom TV
+https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:0,Arabica Tv
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0,Aghani Aghani
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:0,Hawa Dijlah Radio
-https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sumer FM
 http://audiostreaming.itworkscdn.com:9012/stream
 #EXTINF:0,M Radio Iraq
 http://usa13.fastcast4u.com/proxy/mradio02?mp=/1/stream
 #EXTINF:0,Panorama FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:0,Nojoom TV
-https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:0,Radio Monte Carlo Int.
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 
@@ -201,21 +190,17 @@ https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-1080p.m3u8?pkg_media=video&pkg_
 #EXTINF:0,Ajyal
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8?v=1674777428
 #EXTINF:0,MBC2
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
-#EXTINF:0,MBC 2
-http://213.57.91.138:8000/play/a05k
-#EXTINF:0,Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+#EXTINF:0,MBC Pars
+https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC%20Pars
 #EXTINF:0,Movies Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:0,Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:0,Best Action
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
-#EXTINF:0,AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:0,Bravo TV
-https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:0,Wise TV
+https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:0,TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,AVA Family
@@ -224,20 +209,26 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:0,AMC Thriller
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:0,Crave 1
-https://fl7.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:0,BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:0,Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:0,RCM
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:0,Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0,Movie Sphere by Lionsgate
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
 #EXTINF:0,Groovy tv
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/SkyAr.m3u8
+#EXTINF:0,SKY NEWS AR
+#EXTINF:0,History
+https://fl7.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:0,AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:0,Bravo TV
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
 #EXTINF:0,Pluto AMC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
 #EXTINF:0,Pluto action 1
@@ -250,15 +241,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:0,Pluto tv Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Movie Sphere by Lionsgate
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
 #EXTINF:0,Pluto Star Trek
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Paramount +
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 #EXTINF:0,Pluto tv Western
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/SkyAr.m3u8
-#EXTINF:0,SKY NEWS AR
+#EXTINF:0,MBC1
+https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC%201.m3u8
+#EXTINF:0,MBC4
+https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC4.m3u8
+#EXTINF:0,MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:0,MBC Masr 2gether
+https://raw.githubusercontent.com/nebulathanos/nahrainpublic/refs/heads/main/MBC%20Masr%202.m3u8
+#EXTINF:0,MBC2
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
+#EXTINF:0,Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:0,Science
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
+#EXTINF:0,Space
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Modern Marvels
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
